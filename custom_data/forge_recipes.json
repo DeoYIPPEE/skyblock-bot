@@ -1,0 +1,159 @@
+{
+    "REFINED_DIAMOND": {
+        "materials": {
+            "ENCHANTED_DIAMOND_BLOCK": 2
+        },
+        "forge_time": "8h"
+    },
+    "REFINED_MITHRIL": {
+        "materials": {
+            "ENCHANTED_MITHRIL": 160
+        },
+        "forge_time": "6h"
+    },
+    "REFINED_TITANIUM": {
+        "materials": {
+            "ENCHANTED_TITANIUM": 16
+        },
+        "forge_time": "12h"
+    },
+    "REFINED_TUNGSTEN": {
+        "materials": {
+            "ENCHANTED_TUNGSTEN": 160
+        },
+        "forge_time": "1h"
+    },
+    "REFINED_UMBER": {
+        "materials": {
+            "ENCHANTED_UMBER": 160
+        },
+        "forge_time": "1h"
+    },
+    "DRILL_ENGINE": {
+        "materials": {
+            "TREASURITE": 10,
+            "ENCHANTED_IRON_BLOCK": 1,
+            "ENCHANTED_REDSTONE_BLOCK": 3,
+            "GOLDEN_PLATE": 1
+        },
+        "forge_time": "1d6h"
+    },
+    "FUEL_TANK": {
+        "materials": {
+            "ENCHANTED_COAL_BLOCK": 2
+        },
+        "forge_time": "10h"
+    },
+    "GEMSTONE_MIXTURE": {
+        "materials": {
+            "FINE_JADE_GEM": 4,
+            "FINE_AMBER_GEM": 4,
+            "FINE_AMETHYST_GEM": 4,
+            "FINE_SAPPHIRE_GEM": 4,
+            "SLUDGE_JUICE": 320
+        },
+        "forge_time": "4h"
+    },
+    "GLACITE_AMALGAMATION": {
+        "materials": {
+            "FINE_ONYX_GEM": 4,
+            "FINE_CITRINE_GEM": 4,
+            "FINE_PERIDOT_GEM": 4,
+            "FINE_AQUAMARINE_GEM": 4,
+            "ENCHANTED_GLACITE": 256
+        },
+        "forge_time": "4h"
+    },
+    "GOLDEN_PLATE": {
+        "materials": {
+            "REFINED_DIAMOND": 1,
+            "ENCHANTED_GOLD_BLOCK": 2,
+            "GLACITE_JEWEL": 5
+        },
+        "forge_time": "6h"
+    },
+    "MITHRIL_PLATE": {
+        "materials": {
+            "REFINED_TITANIUM": 1,
+            "REFINED_MITHRIL": 5,
+            "GOLDEN_PLATE": 1,
+            "ENCHANTED_IRON_BLOCK": 1
+        },
+        "forge_time": "18h"
+    },
+    "DIVAN_POWDER_COATING": {
+        "materials": {
+            "GLOSSY_GEMSTONE": 32,
+            "REFINED_MINERAL": 32,
+            "DIVAN_FRAGMENT": 5,
+            "ENCHANTED_GOLD_BLOCK": 16
+        },
+        "forge_time": "1d12h"
+    },
+    "DIAMONITE": {
+        "materials": {
+            "REFINED_DIAMOND": 3
+        },
+        "forge_time": "6h"
+    },
+    "POCKET_ICEBERG": {
+        "materials": {
+            "GLACITE_JEWEL": 5
+        },
+        "forge_time": "6h"
+    },
+    "PETRIFIED_STARFALL": {
+        "materials": {
+            "STARFALL": 512
+        },
+        "forge_time": "6h"
+    },
+    "PURE_MITHRIL": {
+        "materials": {
+            "REFINED_MITHRIL": 2
+        },
+        "forge_time": "6h"
+    },
+    "ROCK_GEMSTONE": {
+        "materials": {
+            "ENCHANTED_COBBLESTONE": 128,
+            "TREASURITE": 64
+        },
+        "forge_time": "6h"
+    },
+    "TITANIUM_TESSERACT": {
+        "materials": {
+            "REFINED_TITANIUM": 1,
+            "ENCHANTED_LAPIS_LAZULI": 16
+        },
+        "forge_time": "6h"
+    },
+    "GLEAMING_CRYSTAL": {
+        "materials": {
+            "GLOSSY_GEMSTONE": 32,
+            "REFINED_MITHRIL": 1,
+            "REFINED_DIAMOND": 2
+        },
+        "forge_time": "6h"
+    },
+    "HOT_STUFF": {
+        "materials": {
+            "ENCHANTED_HARD_STONE": 128,
+            "FLAWLESS_TOPAZ_GEM": 1
+        },
+        "forge_time": "6h"
+    },
+    "AMBER_MATERIAL": {
+        "materials": {
+            "FINE_AMBER_GEM": 12,
+            "GOLDEN_PLATE": 1
+        },
+        "forge_time": "6h"
+    },
+    "POWER_CRYSTAL": {
+        "materials": {
+            "STARFALL": 256
+        },
+        "forge_time": "2h"
+    }
+}
